@@ -1,0 +1,96 @@
+
+
+.imagenes {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.textos {
+     display: inline-block;
+     margin-left: 20px;
+     font-size: 16px;
+     margin-left: 4px;
+}
+ul{
+    /* margin-left: 195px; */
+}
+ul li{
+    display:inline;
+   
+}
+
+.block {
+    display: inline-block;
+    margin: bottom -4px;
+}
+.container{
+    margin-top: 44px;
+    margin-left: 128px;
+    position:relative;
+}
+.navbar{
+    display: inline-block;
+    position: relative;
+    left: 106px;
+    bottom: 72px;
+    vertical-align:123px;
+    margin-top: -52px;
+    margin-top: 46px;
+}
+
+.test{
+    position: relative;
+    top: -38px;
+}
+
+h1{
+    display: inline-block;
+    margin-top: 49px;
+    margin-bottom: 41px;
+    
+    position: relative;
+    top: -65px;
+    
+}
+
+h4{
+   
+    font-size: 22px;
+    
+}
+.texto1{
+    position: relative;
+    bottom: 169px;
+    right: 103px;
+    margin-left: 288px;
+    margin-top: 12px;
+
+   
+}
+   
+
+ .TituloUpcoming{
+    display:inline-block;
+    position:relative;
+    left: 20px;
+    margin-left: 13px;
+    bottom: 138px;
+ }
+ .Imagen1{
+    display: inline-block;
+    margin-left: -238px;
+    margin-top: 20px;
+ }
+ .textmonth{
+    bottom:33px;
+    margin-left: 22px;
+    margin-top: -15px
+
+
+
+ }
+
+  
+
+
+ 
